@@ -1,9 +1,9 @@
-# Hak5 Payloads
+# Payloads
 > Blue Cosmo 
 
 A repository containing my payloads for easy finding :)
 
-## Payload Libraries
+## Hak5 Payload Libraries
 - [Payloads.Hak5](https://payloads.hak5.org)
 - [Bash Bunny](https://github.com/hak5/bashbunny-payloads)
 - [Key Croc](https://github.com/hak5/keycroc-payloads)
@@ -16,7 +16,7 @@ A repository containing my payloads for easy finding :)
 - [USB RubberDucky](https://github.com/hak5/usbrubberducky-payloads)
 - [Wi-Fi Pineapple](https://github.com/hak5/pineapple-modules)
 
-## Default Credentials & Settings
+## Default Hak5 Settings
 ```
 Bash Bunny:
 IP: 172.16.24.1
