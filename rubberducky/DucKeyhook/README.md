@@ -31,6 +31,11 @@ DucKeyhook is a USB RubberDucky payload that uses PowerShell to log keystrokes. 
 - Discord Webhook
 - Windows Target
 
+## Download:
+```bash
+svn checkout https://github.com/CosmodiumCS/payloads/trunk/rubberducky/DucKeyhook
+```
+
 ## Instructions:
 **Create Discord Webhook**
 1. create a discord server by clicking the plus button in the bottom left

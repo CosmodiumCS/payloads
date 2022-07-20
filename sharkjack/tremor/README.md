@@ -33,6 +33,11 @@ TREMOR is a worm virus powered by the SharkJack. It will have the ability to spr
 ## Requirements:
 - [SharkJack](https://shop.hak5.org/products/shark-jack?variant=21284894670961)
 
+## Download:
+```bash
+svn checkout https://github.com/CosmodiumCS/payloads/trunk/sharkjack/tremor
+```
+
 ## Instructions:
 
 

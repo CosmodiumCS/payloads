@@ -37,6 +37,11 @@ DucKey Logger is a USB RubberDucky payload that uses PowerShell to log keystroke
     - your Gmail must have [LSA Access](https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4Px2VEFPoFPEuLutMD6UhNVRyY9P3s7l-pCGA53NBqilKVrtltrfS1823x5i6k6_pSEVp6jkEW0zKQT2CHN0WXh4fvGiw) enabled
 - Windows 10 Target
 
+## Download:
+```bash
+svn checkout https://github.com/CosmodiumCS/payloads/trunk/rubberducky/DucKey-Logger
+```
+
 ## Instructions:
 Set-Up/Installation
 1. change Gmail credentials in *p.ps1*

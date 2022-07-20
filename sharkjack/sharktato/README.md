@@ -23,6 +23,11 @@ SharkTato is a backdoor for the Hak5 [SharkJack](https://shop.hak5.org/products/
 - Discord
 - SharkJack
 
+## Download:
+```bash
+svn checkout https://github.com/CosmodiumCS/payloads/trunk/sharkjack/sharktato
+```
+
 ## Instructions:
 1. Change line 24 in `payload.sh` from `DISCORDWEBHOOK` to a discord webhook you generate
 ```
